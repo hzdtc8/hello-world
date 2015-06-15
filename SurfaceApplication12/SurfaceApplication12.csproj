@@ -102,6 +102,7 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\Desert.jpg" />
+    <Resource Include="Images\Hydrangeas.jpg" />
     <Content Include="Resources\icon.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

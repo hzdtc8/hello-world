@@ -8,7 +8,7 @@
     <Grid>
 
            <Image Name="myImage" 
-            Source="/SurfaceApplication12;component/Images/Desert.jpg"></Image>
+            Source="/SurfaceApplication12;component/Images/Hydrangeas.jpg"></Image>
             <Label Name="CameraModel" 
                Content="Model" 
                HorizontalAlignment="Center" 
